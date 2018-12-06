@@ -105,6 +105,9 @@ nav {
     margin: 16px 0px 16px 0px;
     text-indent: 30px;
 }
+#mystuff {
+    float: left;
+}
 
 #profilePic {
     width: 228px;
